@@ -5,7 +5,7 @@ import base64
 import requests
 import multiprocessing as mp
 
-
+# 2020/08/24
 # Ali detect person server config
 # headers
 headers = {'Content-Type':'application/x-www-form-urlencoded'}
